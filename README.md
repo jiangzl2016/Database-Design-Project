@@ -3,7 +3,7 @@
 ![](./logo.png)  
   
 
-####Table of ContentsI.	Executive Summary  II.	Client Description  III.	Previous Approaches & Goals (Changes & Goals)  IV.	Access ScreenshotsV.	Normalization Analysis  VI.	Client Letter  VII.	Team Member Contributions  VIII.	Discussion & Future Work  IX.	Appendix 
+#### Table of ContentsI.	Executive Summary  II.	Client Description  III.	Previous Approaches & Goals (Changes & Goals)  IV.	Access ScreenshotsV.	Normalization Analysis  VI.	Client Letter  VII.	Team Member Contributions  VIII.	Discussion & Future Work  IX.	Appendix 
 
 **I. Executive Summary**  We set out to build a robust and functional database for the Cal Student Store. By initially feilding vast research into the retail merchandise sector, we were able to understand the methods used to track products from order to purchase. Once this was understood, we outlined general goals for the semester long project that would benefit the Cal Student Store. In short, we believed that a new database to track their sales, purchases, and inventory would allow them to perform processes such as forecasting sales and predicting orders that would ultimately give them a better understanding of their customer, and their store. We planned out all pieces of information needed to perform these processes, and mapped out a clear method for organizing this information in a database including these five search queries, as well as their results. Worker Forecasting
 
